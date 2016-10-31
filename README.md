@@ -221,12 +221,16 @@ At ease
 
 ## Sketches
 
-## Wires
+![](https://github.com/amaliebarras/ticketIQhomework/blob/master/designfiles/sketches.JPG?raw=true)
+
+## Wireframe
+
+![](https://github.com/amaliebarras/ticketIQhomework/blob/master/designfiles/wireframe.png?raw=true)
 
 ## Style Tiles
 
-## Next Steps
+![](https://github.com/amaliebarras/ticketIQhomework/blob/master/designfiles/styletile1.jpg?raw=true)
+![](https://github.com/amaliebarras/ticketIQhomework/blob/master/designfiles/styletile2.jpg?raw=true)
 
-### Iterate on Wireframes
-
-### Iterate on Style Tiles
+## Final Mockup
+![](https://github.com/amaliebarras/ticketIQhomework/blob/master/designfiles/mock.png?raw=true)
